@@ -2,5 +2,5 @@
 Projet Bigdata en Scala
 
 Membres du groupe:
--CAMARA Kaynou
--FLAN Paul Ismael
+--CAMARA Kaynou
+--FLAN Paul Ismael
